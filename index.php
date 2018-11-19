@@ -4,6 +4,8 @@
 
 <?php if ( is_front_page() ) { ?>
 
+	<!-- Test Git -->
+
     <?php include (TEMPLATEPATH . '/home-page.php' ); ?>
     
 <?php } elseif ( is_page('15') ) { ?>
