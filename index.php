@@ -4,7 +4,7 @@
 
 <?php if ( is_front_page() ) { ?>
 
-	<!-- Test Git -->
+	<!-- Edited From Home Test Git -->
 
     <?php include (TEMPLATEPATH . '/home-page.php' ); ?>
     
